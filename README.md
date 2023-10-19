@@ -8,4 +8,4 @@ U.S. Returns to Schooling Data from the U.S. National Longitudinal Survey of You
 Using the ivreg package in R, the 2SLS estimates are constructed.
 
 # results 
-A two-stage least squares to estimate the regression yields an unbiased coefficient of 13.2% per year, whereas the OLS esitmation yielded 7.4%.
+A two-stage least squares to estimate the regression yields an unbiased coefficient of 13.2% per year, whereas the OLS estimation yielded 7.4%.
